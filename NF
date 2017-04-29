@@ -1,0 +1,48 @@
+#PLAYLISTV: pltv-logo="http://bit.ly/2nMUroJ" pltv-name="NOXPLAY Filmes" pltv-description="Assista Filmes Online Totalmente gratis, entre no nosso canal do telegram (Telegram.me/LIVEHDTV)" pltv-cover="http://bit.ly/2nMUC3n" pltv-author="@Hayashii" pltv-site="https://telegram.me/LiveHDTV" pltv-email="suportehayashii@gmail.com"
+
+########################################################
+################ HAYASHII ################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Suporte"tvg-logo="http://i.imgur.com/sBmKBV2l.jpg" group-title="Suporte",Canal: T.me/LiveHDTV
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Suporte"tvg-logo="http://i.imgur.com/dh9BhO8h.jpg" group-title="Suporte",Criador: @Hayashii 
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Suporte"tvg-logo="http://i.imgur.com/sleySKD.png" group-title="Suporte",Version: 1.0
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Parceirod"tvg-logo="http://i.imgur.com/RFoRjrU.jpg" group-title="Parceiros",@Dscovery
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Parceiros"tvg-logo="https://i.imgur.com/zw4DpBo.jpg" group-title="Parceiros",@Droidinjector
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Parceiros"tvg-logo="https://i.imgur.com/PYqt0zb.jpg" group-title="Parceiros",@Brasilvpn_Oficial
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Parceiros"tvg-logo="http://i.imgur.com/sYhzROr.jpg" group-title="Parceiros",@Jeantutoriais24h
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="Parceiros"tvg-logo="http://i.imgur.com/cINQdPM.jpg" group-title="Parceiros",@Canal4G
+http://0.0.0.0
+
+########################################################
+################ Copyright by @livehdtv ################################
+
+################## FILMES ONLINE! ########################
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-vE5wLgCjKfw/WKO7M5HtFRI/AAAAAAAADRM/TxVMtnvPmgsN8Yyy0oMoY7tT6lRtI9eDACLcB/s1600/%2521Top%2BFilmes%2521.png" group-title="FILMES ONLINE", LANCAMENTOS!!
+https://goo.gl/ZcXVR1
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/A5z8aqd.jpg" group-title="FILMES ONLINE",VELOZES E FURIOSOS 8
+https://docs.google.com/file/d/0BxQ2zvLWMg9vcHZudHFJUVN2MmM/view
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlMbcgFw9u1JSRnzzbmbvt0uqqmeKMtYuHJdF8Q5PjiWzx1EDc" group-title="FILMES ONLINE",LOGAN DUB
+https://r1---sn-bg0e7n76.googlevideo.com/videoplayback?id=a7e05293ff685242&itag=18&source=webdrive&requiressl=yes&ttl=transient&pl=24&ei=ymQCWabHKYvJqgXY0L3gCg&mime=video/mp4&lmt=1492995569573948&ip=132.255.100.18&ipbits=128&expire=1493343498&sparams=ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,ttl&signature=64A84098870CF5B8BB955DC5B3C5958B26F07FB8.43CEEAC22EBA0E1114C45EF9EB4D20B1C7C6BD6A&key=cms1&app=api.getlinkdrive.com&filename=video.mp4&cms_redirect=yes&mm=31&mn=sn-bg0e7n76&ms=au&mt=1493330727&mv=m
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2prXbMU" group-title="FILMES ONLINE",O PODEROSO CHEFINHO DUB
+https://docs.google.com/file/d/0B0elPXenadXzN1hyMDFNTDhWNmM/view
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HSiAZPO.jpg" group-title="FILMES ONLINE",KONG: A ILHA DA CAVEIRA DUB
+https://docs.google.com/file/d/0BxQ2zvLWMg9vc0x4eVlOOE5PY0k/view
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2puXDdh" group-title="FILMES ONLINE",FRANGMENTADO DUB
+https://docs.google.com/file/d/0B0elPXenadXzWENGWEZSUkNjNmM/view
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/e86XzWz.jpg" group-title="FILMES ONLINE",O CHAMADO 3 DUB
+https://r5---sn-bg0e7n7z.googlevideo.com/videoplayback?id=07393b568f362697&itag=59&source=webdrive&requiressl=yes&ttl=transient&pl=24&ei=lWECWarWEdT9qgWg5KHACw&mime=video/mp4&lmt=1493097290541511&ip=132.255.100.18&ipbits=128&expire=1493342677&sparams=ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,requiressl,source,ttl&signature=2EC6D9ECCA0093D99151B09E759F42D813A92B1B.7359B414748D1BD28E8A57D718F8716DA1852619&key=cms1&app=api.getlinkdrive.com&filename=video.mp4&cms_redirect=yes&mm=31&mn=sn-bg0e7n7z&ms=au&mt=1493329831&mv=m
+ 
